@@ -6,6 +6,7 @@ venv/
 
 # Runtime Data
 uploads/
+
 vectorstore/
 
 # VS Code
